@@ -1,0 +1,11 @@
+<resources>
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorText">#212121</color>
+    <color name="primaryText">#212121</color>
+    <color name="primaryColor">#6200EE</color> <!-- You can change this hex value as needed -->
+
+</resources>

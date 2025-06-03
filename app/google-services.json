@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968075845379",
+    "project_id": "fahim-26413",
+    "storage_bucket": "fahim-26413.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968075845379:android:1622b3df1d7ea8a5809336",
+        "android_client_info": {
+          "package_name": "com.example.fahim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhrp_UjHWzIg_e-XKyxnjpjP0W35Z-kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

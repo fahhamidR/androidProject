@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BAUST Sports Arena</string>
+
+    <!-- Bottom Navigation Titles -->
+    <string name="nav_home">Home</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_teams">Teams</string>
+    <string name="nav_news">News</string>
+    <string name="nav_profile">Profile</string>
+</resources>
